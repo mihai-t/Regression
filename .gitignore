@@ -1,0 +1,11 @@
+.idea
+*.class
+target
+*.jar
+Charts
+out
+*.iml
+NeuralNet.txt
+bestNetAge.txt
+bestNetSex.txt
+test data
